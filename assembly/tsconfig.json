@@ -1,0 +1,5 @@
+{
+  "extends": "../node_modules/assemblyscript/std/assembly.json",
+  "types": ["@as-pect/assembly"],
+  "include": ["**/*.ts", "**/*.d.ts"]
+}
